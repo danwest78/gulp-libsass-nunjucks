@@ -1,4 +1,6 @@
 var Modals = (function () {
+    'use strict';
+
     var s;
     
     return {

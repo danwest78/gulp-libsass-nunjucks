@@ -1,4 +1,6 @@
 var SmoothScroll = (function () {
+    'use strict';
+
     var s;
     
     return {

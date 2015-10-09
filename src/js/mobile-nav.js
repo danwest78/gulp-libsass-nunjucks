@@ -1,4 +1,6 @@
 var MobileNav = (function () {
+    'use strict';
+
     var s;
     
     return {

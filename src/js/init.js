@@ -1,5 +1,7 @@
 $(document).ready(function() {
-	// init modules
+	'use strict';
+
+	// initialise your modules here
 
 	MobileNav.init();
 
@@ -7,5 +9,5 @@ $(document).ready(function() {
 
 	SmoothScroll.init();
 
-	console.log('COMPLETE');
+	console.log('INIT COMPLETE');
 });
