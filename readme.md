@@ -1,3 +1,5 @@
+# Gulp - nunjucks - libsass - kss styleguide starter template
+
 # Requirements
 
 - NodeJS / NPM / Bower
@@ -38,3 +40,6 @@ gulp watch
 
 # cleanup
 gulp clean
+
+# build and generate styleguide
+gulp build

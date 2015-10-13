@@ -1,0 +1,19 @@
+// Container
+//
+// Your standard button suitable for clicking.
+//
+// :focus   - Highlights when hovering.
+// .blah   - Do not press this big, shiny, red button.
+//
+// Markup: container.html
+//
+// Styleguide 2
+
+
+div.container{
+	color: pink;
+}
+
+div.container:focus{
+	color: blue;
+}
